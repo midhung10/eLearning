@@ -33,3 +33,4 @@ e-learning application in this directory:
 *	You can find template for settings sensitive in source directory
 *	For more information visit (https://docs.djangoproject.com/ja/1.9/topics/email/)
 *	This project is no longer maintained, and should only serve as a learning example
+*	
